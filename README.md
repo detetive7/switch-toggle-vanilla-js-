@@ -14,4 +14,4 @@ This is a simple project to train my front-end skills, learning to apply CSS ani
 
 ## 🔖 Layout
 
-You can view the layout of the project throught this link [DESSE LINK](https://www.figma.com/file/hxSFKCsSbKoKF8AiEOcfiy/Toggle-Buttons-(Community)?node-id=0%3A1). You must have a Figma account [Figma](https://figma.com) to access it.
+You can view the layout of the project throught this link [THIS LINK](<https://www.figma.com/file/hxSFKCsSbKoKF8AiEOcfiy/Toggle-Buttons-(Community)?node-id=0%3A1>). You must have a Figma account [Figma](https://figma.com) to access it.
